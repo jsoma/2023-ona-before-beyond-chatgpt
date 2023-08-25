@@ -1,14 +1,14 @@
 # AI Tools from Before (and Beyond!) ChatGPT
 
-## ONA 2023
+**ONA 2023, August 2023**
+
+> I added links, but **THERE WILL BE SO MUCH MORE HERE LATER!!!!**
 
 Hi, I'm Jonathan Soma! I run the [Data Journalism MS](https://journalism.columbia.edu/data) and [Lede Program](https://ledeprogram.com/) at Columbia, where I am Knight Chair in Data Journalism.
 
 Contact me at [js4571@columbia.edu](mailto:js4571@columbia.edu) or [on Twitter](https://twitter.com/dangerscarf).
 
 [Slides here](ai-tools-before-beyond-chatgpt.pdf)
-
-> I added links, but **THERE WILL BE SO MUCH MORE HERE LATER!!!!**
 
 **Some of my websites:**
 
