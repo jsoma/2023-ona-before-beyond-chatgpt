@@ -55,6 +55,8 @@ Contact me at [js4571@columbia.edu](mailto:js4571@columbia.edu) or [on Twitter](
 - [How I convinced GPT to teach me about Hungarian folktales (without speaking a word of Hungarian)](https://github.com/jsoma/mediaparty-folktales) - a talk on text embeddings/multi-language document Q&A/document search from MediaParty Chicago 2023
 - [Intro to document search and similarity](https://jsoma.github.io/2023-abraji-ai-workshop/#document-search-and-similarity)
 
+
+- [Semantra](https://github.com/freedmand/semantra), a "multi-tool for semantic search"
 - ["Chat with your data" online course](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) - there are so many of these jeez
 - [Doing translation with Hugging Face](https://huggingface.co/docs/transformers/tasks/translation)
 
